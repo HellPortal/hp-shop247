@@ -3,24 +3,13 @@ Retextured, Static Door Deleted, New Door Added, Floor Dirt Cleaned and Reflecti
 
 # Contents:
 
-### Morning
+### All
 
 <details><summary>Screenshots</summary>
 
-<img src="https://i.postimg.cc/mkDZcHwb/hp-binco-morning-1.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/SRvScxTc/hp-binco-morning-2.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/HWZsq6Yj/hp-binco-morning-3.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/1585sDXB/hp-binco-morning-4.png" alt="Alt Text" width="1000" height="500">
-
-</details>
-
-### Night
-
-<details><summary>Screenshots</summary>
-
-<img src="https://i.postimg.cc/BQRZ6t10/hp-binco-night-1.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/yNHVm5Pp/hp-binco-night-2.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/wBQ90V4q/hp-binco-night-3.png" alt="Alt Text" width="1000" height="500">
-<img src="https://i.postimg.cc/9MXCS7sG/hp-binco-night-4.png" alt="Alt Text" width="1000" height="500">
-
-</details>
+<img src="https://i.postimg.cc/HxC816D4/hp-shop247-1.png" alt="Alt Text" width="1000" height="500">
+<img src="https://i.postimg.cc/RFQ6Swvr/hp-shop247-2.png" alt="Alt Text" width="1000" height="500">
+<img src="https://i.postimg.cc/cCxKr6Jv/hp-shop247-3.png" alt="Alt Text" width="1000" height="500">
+<img src="https://i.postimg.cc/44P7jv8V/hp-shop247-4.png" alt="Alt Text" width="1000" height="500">
+<img src="https://i.postimg.cc/pXdhv977/hp-shop247-5.png" alt="Alt Text" width="1000" height="500">
+<img src="https://i.postimg.cc/5NkH24Wt/hp-shop247-6.png" alt="Alt Text" width="1000" height="500">
